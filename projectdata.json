@@ -1,0 +1,63 @@
+{ "Alessandro_Volta": [
+     {
+      "tag": "Alessandro_yes_chem",
+      "patterns": ["Was Alessandro Volta a professor of chemistry?"],
+      "responses": ["Alessandro Volta was not a professor of chemistry."]
+     },
+     {
+      "tag": "Alessandro_invent_pistol",      
+      "patterns": ["Did Alessandro Volta invent the remotely operated pistol?"],
+      "responses": ["Alessandro Volta did invent the remotely operated pistol."]
+     },
+     {
+      "tag": "Alessandro_taught_public",      
+      "patterns": ["Was Alessandro Volta taught in public schools?"],
+      "responses": ["Volta was taught in public schools."] 
+     },
+     { 
+      "tag": "Alessandro_marry",      
+      "patterns": ["Who did Alessandro Volta marry?"],
+      "responses": ["Alessandro Volta married Teresa Peregrini."]  
+     },
+     {  
+      "tag": "Alessandro_pile",     
+      "patterns": ["What did Alessandro Volta invent in 1800?"],
+      "responses": ["In 1800, Alessandro Volta invented the voltaic pile."]  
+     },
+     {
+      "tag": "Alessandro_battery",
+      "patterns": ["What is the battery made by Alessandro Volta credited as?"],
+      "responses": ["The battery made by Volta is credited as the first electrochemical cell."]
+     },
+     {  
+      "tag": "Alessandro_retire",   
+      "patterns": ["Did Alessandro Volta die and retire in the same place?"],
+      "responses": ["Alessandro Volta retired and died in the same place."]
+     },
+     {      
+      "tag": "Alessandro_electro",
+      "patterns": ["When did Alessandro Volta improve  and popularize the electrophorus?"],
+      "responses": ["Alessandro Volta improved and popularized the electrophorus in 1775."]
+     },
+     {  
+      "tag": "Alessandro_University",
+      "patterns": ["How long was Alessandro Volta a professor at the University of Pavia?"],
+      "responses": ["Alessandro Volta was a professor at the University of Pavia for almost 25 years."]
+     },
+     {   
+      "tag": "Alessandro_Egypt",   
+      "patterns": ["Was Alessandro Volta an Egyptian?"],
+      "responses": ["no"]
+     },
+     {  
+      "tag": "Alessandro_public",    
+      "patterns": ["Was Volta taught in public schools?"],
+      "responses": ["yes"]
+     },
+     {
+      "tag": "Alessandro_count",      
+      "patterns": ["Was Volta made a count in 1810?"],
+      "responses": ["yes"]
+     }
+    ]
+}
